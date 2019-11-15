@@ -1,5 +1,5 @@
 # communication-IOT
-<h1>prerequit<h1>
+<h1>prerequit</h1>
   <p> installer le broker mosquitto clicker <a href="https://mosquitto.org/download/"> ici</a> pour le faire</p>
   <h1>explication</h1>
 <p><b>le projet contien deux fichiers un pour l'envoi 'publish.py' et l'autre pour recevoir 'recevoire_ESP' :</b><p>
